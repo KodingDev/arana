@@ -3,7 +3,7 @@ productName: Arana
 copyright: Copyright © 2022 Koding Development
 directories:
   output: dist
-  buildResources: resources
+  buildResources: assets
 files:
   - from: .
     filter:
