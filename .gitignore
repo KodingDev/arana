@@ -258,5 +258,7 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/nextjs,webstorm+all,node
 
+### Custom Stuff
 node_modules
-/app
+release/build
+.erb/dll
