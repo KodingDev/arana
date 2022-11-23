@@ -1,38 +1,12 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+<!--suppress CheckImageSize -->
+<img align="left" width="80" height="80" src="assets/icon.png" alt="Mod logo">
 
-## Usage
+# Arana
 
-### Create an App
+🌱 An advanced, Electron-based Genshin Impact companion app.
 
-```
-# with npx
-$ npx create-nextron-app my-app --example with-typescript-tailwindcss
+> **ETA?** Soon™️
 
-# with yarn
-$ yarn create nextron-app my-app --example with-typescript-tailwindcss
+## Features
 
-# with pnpx
-$ pnpx create-nextron-app my-app --example with-typescript-tailwindcss
-```
-
-### Install Dependencies
-
-```
-$ cd my-app
-
-# using yarn or npm
-$ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
-```
-
-### Use it
-
-```
-# development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
-
-# production build
-$ yarn build (or `npm run build` or `pnpm run build`)
-```
+- Soon™️
